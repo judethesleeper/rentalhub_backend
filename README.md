@@ -1,3 +1,22 @@
+# RentalHub Backend – Equipment Rental Management System
+
+## 📌 Project Name
+**RentalHub (Backend API)**
+
+## 👥 Team Members
+- **Lwin Moh Moh Theint** – Project Leader, Backend, Frontend  
+  GitHub: https://github.com/Tricia28-cs  
+- **Sai Khun Naung Hein** – Frontend  
+  GitHub: https://github.com/liamted49  
+- **Soe Min Htet** – Backend, Frontend  
+  GitHub: https://github.com/judethesleeper  
+
+## 📝 Project Description (Short)
+RentalHub is a full-stack web application for managing equipment rentals in universities, laboratories, media departments, and small businesses.  
+
+The backend provides secure REST APIs for authentication, rental management, equipment availability, dashboard analytics, and user management. It handles all business logic, database operations, and access control for the RentalHub platform.
+
+---
 # RentalHub – Equipment Rental Management System
 
 A full-stack web application for managing equipment rentals in universities, laboratories, media departments, and small businesses.
