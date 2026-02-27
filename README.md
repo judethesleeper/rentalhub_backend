@@ -295,5 +295,5 @@ Use **Azure Cosmos DB for MongoDB** for a fully Azure-native stack:
 | Approved | 🔵 Blue | Confirmed rental |
 | Returned | 🟢 Green | Completed rental |
 | Cancelled | ⚫ Gray | Cancelled/Rejected |
-# rentalhub_backend
-# rentalhub_backend
+
+
